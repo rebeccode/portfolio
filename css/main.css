@@ -32,9 +32,14 @@
   }
 
   h1 {
-    font-family: 'Libre Barcode 39 Text', cursive;
     color: #75cac3;
     text-align: right;
+    padding: 1em 0.5em 3em 0em;
+  }
+
+  .name-en {
+    font-family: 'Libre Barcode 39 Text', cursive;
+    letter-spacing: 0.1em;
   }
 
   ul {
@@ -96,11 +101,6 @@
 
 /* Spacing */
 
-  h1 {
-    padding: 1em 0.5em 3em 0em;
-    letter-spacing: 0.1em;
-  }
-
   h3 {
     padding-bottom: 1em;
   }
@@ -161,6 +161,10 @@
     font-size: 18px;
   }
 
+  .name-jp {
+    font-size: 1.5em;
+  }
+
   .language {
     font-size: 16px;
   }
@@ -206,6 +210,10 @@
 
   body {
     font-size: 20px;
+  }
+
+  .name-jp {
+    font-size: 1.5em;
   }
 
   .language {
