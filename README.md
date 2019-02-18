@@ -10,7 +10,7 @@ This is my responsive portfolio site for my web designer and developer career.
 
 I have written out the guiding ideas and principles I had in mind when creating this site.
 
-## English and Japanese
+### English and Japanese
 
 I wrote the original homepage in English. As I'm based in Tokyo, I translated the site by myself into Japanese.
 
@@ -50,12 +50,8 @@ I include alt attributes for images for users with different accessibility requi
 </li>
 ```
 
-## FontAwesome
+### FontAwesome
 
 I used FontAwesome for the social media logos and other icons because it is kept up to date and it is a font - which makes resizing and coloring with CSS easy. It is supported by all browsers and it only takes a single HTTP request to load all of the font characters, so it is quicker than individual image files.
 
 * [FontAwesome](https://fontawesome.com/) - For social media logos
-
-## Acknowledgments
-
-* Thank you to 
