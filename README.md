@@ -2,9 +2,9 @@
 
 This is my responsive portfolio site for my web designer and developer career.
 
-![A screen shot of Rebecca Slinn's portfolio website](...)
+![A screen shot of Rebecca Slinn's portfolio website](https://rebeccode.github.io/portfolio/img/site-demo.gif)
 
-* [Live Here](https://...) - Click the link to see the site.
+* [Live Here](https://rebeccode.github.io/portfolio/) - Click the link to see the site.
 
 ## Explanation
 
