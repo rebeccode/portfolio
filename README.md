@@ -43,11 +43,7 @@ I use HTML5 semantic tags to show the content clearly according to W3C standards
 I include alt attributes for images for users with different accessibility requirements (like using screen readers).
 
 ```html
-<li>
-    <a href="https://soundcloud.com/user-821969995" alt="Link to Rebecca's music recordings on SoundCloud" target="_blank">
-    <i class="fab fa-soundcloud"></i><br>
-    </a>
-</li>
+<img id="profile-pic" src="img/becky-357x414.png" alt="A cartoon illustration of Rebecca">
 ```
 
 ### FontAwesome
